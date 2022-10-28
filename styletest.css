@@ -1,7 +1,0 @@
-table, th, td {
-	border: 1px solid black;
-	border-collapse: inherit; /*collapse : met les contours en un trait au lieu d'un double trait*/
-	text-align: center;
-	background-color: yellow;
-}
-
